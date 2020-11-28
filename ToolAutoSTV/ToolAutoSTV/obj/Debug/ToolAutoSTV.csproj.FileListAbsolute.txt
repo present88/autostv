@@ -1,0 +1,11 @@
+D:\PM\ToolAutoSTV\ToolAutoSTV\bin\Debug\ToolAutoSTV.exe.config
+D:\PM\ToolAutoSTV\ToolAutoSTV\bin\Debug\ToolAutoSTV.exe
+D:\PM\ToolAutoSTV\ToolAutoSTV\bin\Debug\ToolAutoSTV.pdb
+D:\PM\ToolAutoSTV\ToolAutoSTV\bin\Debug\WebDriver.dll
+D:\PM\ToolAutoSTV\ToolAutoSTV\bin\Debug\WebDriver.Support.xml
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.csprojResolveAssemblyReference.cache
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.Form1.resources
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.Properties.Resources.resources
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.csproj.GenerateResource.Cache
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.exe
+D:\PM\ToolAutoSTV\ToolAutoSTV\obj\Debug\ToolAutoSTV.pdb
